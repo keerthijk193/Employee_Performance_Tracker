@@ -1,0 +1,5 @@
+[run]
+omit =
+    venv/*
+    .venv/*
+    seed_data.py
