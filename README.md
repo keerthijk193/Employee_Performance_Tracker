@@ -43,7 +43,7 @@ cp .env.example .env              # Windows: copy .env.example .env
 Install MongoDB Community Server and start it; the default
 `MONGO_URI=mongodb://localhost:27017` works.
 
-The database `performance_reviews_db` and collection `reviews` are created automatically on the first review.
+The database `reviews_db` and collection `reviews` are created automatically on the first review.
 
 ## Run
 ```bash
